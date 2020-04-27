@@ -1,0 +1,16 @@
+# Site settings
+title: Cyber Policy Nexus
+url: https://cyberpolicynexus.org
+description: "An online space for the cyber policy community."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: 'black'
+  links: 'white'
+
+# Footer settings
+footer: Cyber Policy Nexus
+
+# Build settings
+markdown: kramdown
+permalink: pretty
