@@ -12,4 +12,4 @@ Participation is contingent on adhering to the [Rules of Engagement](https://cyb
 
  * Member transparency fosters trust and accountability. Members should create a profile that includes a) your real name, b) a description of your role, c) any relevant affiliations, d) policy areas of interest. The profile does not need to include a photo.
 
- * Discretion leads to greater candor. The Nexus expects members will honor the Chatham House Rule, “participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.”
+ * Discretion leads to greater candor. The Nexus expects members will honor the [Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule), *“participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed*.”
