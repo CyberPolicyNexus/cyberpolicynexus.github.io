@@ -1,7 +1,15 @@
 # Cyber Policy Nexus
 
-I know what you're thinking, "Not another Slack?!" But hear me out. The cyber policy community lacks a common online space to educate each other and share expertise and ideas. To address this, we have started a Slack workspace that allows the cybersecurity policy community to congregate and collaborate. Slack provides a platform for open discussions on general topics and allows individual groups to start their own private channels for private conversations or to explore specific topics.
+### About the Nexus
+The [Cyber Policy Nexus](https://cyberpolicynexus.org/) (or the Nexus) is a safe space online for cyber policy professionals to congregate and collaborate, to learn and educate. The Slack workspace provides a platform for open discussions on general topics and allows individual groups to start private channels for closed discussions.
 
-If you have a cyber policy role and agree to the [Rules of Engagement](https://cyberpolicynexus.org/rules), apply below.
+Participation is contingent on adhering to the [Rules of Engagement](https://cyberpolicynexus.org/#rules) and community norms as they emerge. If you are a cyber policy professional interested in participating, submit a request through the [Signup Form](https://cyberpolicynexus.org/#signup).
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdcK46cs3r0Q2jNx7FPkYQkbisulrTlFqKR_dzQ_GIzUUTQTA/viewform?embedded=true" width="640" height="1119" frameborder="0" marginheight="0" marginwidth="0">Loading the Nexus application…</iframe>
+### Rules of Engagement
+ * While the Nexus is an inclusive group, its focus is facilitating cybersecurity discussions among the global cyber policy community. For now, only those with current or former cyber policy roles are eligible to join.
+
+ * The Nexus is a safe space for cybersecurity discussions where we want members to feel comfortable asking questions, seeking assistance, and sharing ideas. Topics and behaviors undermine those goals and are unwelcome, such as those that are partisan, political, commercial, aggressive, exclusionary, or derogatory.
+
+ * Member identification fosters trust and accountability. Each profile should include a) your real name, b) a description of your role, c) any relevant affiliations, d) policy areas of interest. The profile does not need to include a photo.
+
+ * Discretion leads to greater candor. The Nexus expects members will honor the Chatham House Rule, “participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.”

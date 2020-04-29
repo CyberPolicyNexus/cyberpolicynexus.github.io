@@ -14,3 +14,6 @@ footer: Cyber Policy Nexus
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Google Tag Manager
+gtag: UA-164699650-1
